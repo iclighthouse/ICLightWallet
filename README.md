@@ -1,2 +1,2 @@
-# ICLighthouseWallet
-ICLighthouse is a wallet that includes transfer, tokens management, staking, cross-chain bridges, Defi, and other features.
+# ICLight Wallet
+ICLight wallet for ICP, Cycles, and Tokens.
