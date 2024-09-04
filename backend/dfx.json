@@ -1,0 +1,10 @@
+{
+	"canisters": {
+		"Backend": {
+			"main": "src/Backend.mo",
+			"type": "motoko",
+			"args": "--compacting-gc"
+		}
+	},
+	"version": 1
+}
